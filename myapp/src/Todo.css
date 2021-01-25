@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.App{
+    background-color: grey;
+}
+
+.list{
+    background-color: white ;
+}
+
+/* .form{
+    color: white;
+    background-color: white;
+} */
+.delete{
+    /* width:"200%"; */
+    padding: 5px;
+    margin: 8px;
+    border-radius: 9px;
+    background-color: greenyellow;
+}
+
+.btn{
+    background-color:powderblue;
+    border: 2px solid black;
+    border-radius: 5px;
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.txt{
+    font-weight: bold;
+    font-size: 20px;
+}
+
